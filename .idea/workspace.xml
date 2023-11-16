@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92cb1004-d193-40b7-9f25-576b0de6d43e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding-tank-b3-ada.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercicioCinco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercicioDois.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercicioQuatro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercicioSeis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercicioTres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercicioUm.java" afterDir="false" />
+    <list default="true" id="92cb1004-d193-40b7-9f25-576b0de6d43e" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/src/ExercicioExtra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +23,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="560c3ab5-4a47-4c75-b6c1-98c5bc42e185" />
+        <option name="url" value="https://github.com/grazie-lla/coding-tank-b3-ada.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectId" id="2YEYi6sCFwHWwFRYRCf7hpjEvnl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,7 +49,7 @@
     "onboarding.tips.debug.path": "/Users/grazicosta/Desktop/coding-tank-b3-ada/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ExercicioSeis">
+  <component name="RunManager" selected="Application.ExercicioExtra">
     <configuration name="ExercicioCinco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExercicioCinco" />
       <module name="coding-tank-b3-ada" />
@@ -54,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioDois" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercicioDois" />
+    <configuration name="ExercicioExtra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercicioExtra" />
       <module name="coding-tank-b3-ada" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExercicioExtra" />
         <item itemvalue="Application.ExercicioSeis" />
         <item itemvalue="Application.ExercicioCinco" />
         <item itemvalue="Application.ExercicioQuatro" />
         <item itemvalue="Application.ExercicioTres" />
-        <item itemvalue="Application.ExercicioDois" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +104,19 @@
       <option name="presentableId" value="Default" />
       <updated>1700092333366</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1700102280208</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700102280210</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
